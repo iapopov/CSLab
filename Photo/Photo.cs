@@ -6,7 +6,7 @@ namespace Lab2
 	{
 		public int width;
 		public int height;
-		public double[,,] data;
+		public Pixel[,] data;
 	}
 }
 
